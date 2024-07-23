@@ -2,18 +2,16 @@
 
 三宏筆試作業/蔡岳宏
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
 ## Project Setup
 
 ```sh
 npm install
+```
+
+or
+
+```sh
+yarn
 ```
 
 ### Compile and Hot-Reload for Development
@@ -22,14 +20,10 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+or
 
 ```sh
-npm run build
+yarn dev
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+please see in port 2222
